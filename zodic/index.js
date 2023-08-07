@@ -1,3 +1,4 @@
+// it's an javascript project in which it take an input for zodiac sign and show luck colour
 const zodiac= document.getElementById("zodiac");
 const body = document.body;
 const changebg = () =>{
